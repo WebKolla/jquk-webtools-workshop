@@ -39,3 +39,6 @@ appendTo training material provided by:
 All material is copyright appendTo, LLC, all rights reserved. This material is only 
 intended to be used in conjunction with one of the training sessions mentioned in 
 the first section of this README. Any other use is prohibited.
+=======
+jquk-webtools-workshop
+======================
